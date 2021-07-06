@@ -1,5 +1,5 @@
 ---
-title: "Report of epicPCR experiment, May 14 2021"
+title: "Report of epicPCR experiment, May 28 2021"
 params:
    rmd: "report.Rmd"
 output: md_document

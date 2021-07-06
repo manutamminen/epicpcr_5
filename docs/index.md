@@ -54,26 +54,30 @@ Barcode taxonomy distribution
 
 The abundance columns are:
 
--   Only biological controls; 100X dilution of standards; 1e5 barcode
-    molecules
--   WRhodoM100XDilBC10e5: Wastewater + biological controls; 100X
-    dilution of standards; 1e5 barcode molecules
--   Only wastewater; 100X dilution of standards; 1e5 barcode molecules
--   Only biological controls; 100X dilution of standards; 1e6 barcode
-    molecules
--   WRhodoM100XDilBC10e6: Wastewater + biological controls; 100X
-    dilution of standards; 1e6 barcode molecules
--   Only wastewater; 100X dilution of standards; 1e6 barcode molecules
--   Only biological controls; 10X dilution of standards; 1e5 barcode
-    molecules
--   WRhodoM10XDilBC10e5: Wastewater + biological controls; 10X dilution
-    of standards; 1e5 barcode molecules
--   Only wastewater; 10X dilution of standards; 1e5 barcode molecules
--   Only biological controls; 100X dilution of standards; 1e6 barcode
-    molecules
--   WRhodoM10XDilBC10e6: Wastewater + biological controls; 100X dilution
-    of standards; 1e6 barcode molecules
--   Only wastewater; 100X dilution of standards; 1e6 barcode molecules
+-   Only biological controls; 30 000 standard copies; 1e4 barcode
+    molecules; mineral oil emulsion
+-   WRhodoM100XDilBC10e5: Wastewater + biological controls; 30 000
+    standard copies; 1e4 barcode molecules; mineral oil emulsion
+-   Only wastewater; 30 000 standard copies; 1e4 barcode molecules;
+    mineral oil emulsion
+-   Only biological controls; 3000 standard copies; 1e4 barcode
+    molecules; mineral oil emulsion
+-   WRhodoM100XDilBC10e6: Wastewater + biological controls; 3000
+    standard copies; 1e4 barcode molecules; mineral oil emulsion
+-   Only wastewater; 3000 standard copies; 1e4 barcode molecules;
+    mineral oil emulsion
+-   Only biological controls; 30 000 standard copies; 1e4 barcode
+    molecules; fluorinated oil emulsion
+-   WRhodoM100XDilBC10e5: Wastewater + biological controls; 30 000
+    standard copies; 1e4 barcode molecules; fluorinated oil emulsion
+-   Only wastewater; 30 000 standard copies; 1e4 barcode molecules;
+    fluorinated oil emulsion
+-   Only biological controls; 3000 standard copies; 1e4 barcode
+    molecules; fluorinated oil emulsion
+-   WRhodoM100XDilBC10e6: Wastewater + biological controls; 3000
+    standard copies; 1e4 barcode molecules; fluorinated oil emulsion
+-   Only wastewater; 3000 standard copies; 1e4 barcode molecules;
+    fluorinated oil emulsion
 
 <td valign="top">
 <img src="../figures/bact_abunds.png" >
@@ -164,14 +168,24 @@ Normalised connections
 
 ## Standard abundances
 
+<table>
+<tr>
+<td>
 Absolute mock abundances
-<td valign="top">
-<img src="../figures/mock_abundances.png" >
 </td>
-Proportional mock abundances
-<td valign="top">
-<img src="../figures/mock_proportions.png" >
+<td>
+Proportopnal mock abundances
 </td>
+</tr>
+<tr>
+<td valign="top">
+<img src="../figures/mock_abundances.png">
+</td>
+<td valign="top">
+<img src="../figures/mock_proportions.png">
+</td>
+</tr>
+</table>
 Absolute biological standard abundances
 <td valign="top">
 <img src="../figures/biol_std_abundances.png" >

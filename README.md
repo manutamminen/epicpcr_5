@@ -22,7 +22,7 @@ The following samples are included:
 
 Raw data available at https://zenodo.org/record/4877925
 
-Lab protocols available at 
+Lab protocols available at https://github.com/manutamminen/epicpcr_5/blob/main/docs/protocols.md
 
 Summary of the results available at https://github.com/manutamminen/epicpcr_5/blob/main/docs/index.md
 

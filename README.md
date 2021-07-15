@@ -4,20 +4,32 @@ The aim of this experiment was to find an optimal concentration gradient for syn
 
 The following samples are included:
 
-| Sample name | Sample description |
+| Sample name | Sample description: sample, emulsion, number of mock oligos, target  |
 | :--- | :--- |
-| BiolstdM100XDilBC10e4fluo | Biological standard-Fluorinated oil, 30 000 standard copies |
-| BiolstdM100XDilBC10e3fluo | Biological standard-Fluorinated oil, 3000 standard copies |
-| BiolstdM100XDilBC10e4mine | Biological standard-Mineral oil, 30 000 standard copies |
-| BiolstdM100XDilBC10e3mine | Biological standard-Mineral oil, 3000 standard copies |
-| WWBiolstdM100XDilBC10e4fluo | Wastewater + Biological standard-Fluorinated oil, 30 000 standard copies |
-| WWBiolstdM100XDilBC10e3fluo | Wastewater + Biological standard-Fluorinated oil, 3000 standard copies |
-| WWBiolstdM100XDilBC10e4mine | Wastewater + Biological standard-Mineral oil, 30 000 standard copies |
-| WWBiolstdM100XDilBC10e3mine | Wastewater + Biological standard-Mineral oil, 3000 standard copies |
-| WWM100XDilBC10e4fluo | Wastewater-Fluorinated oil, 30 000 standard copies |
-| WWM100XDilBC10e3fluo | Wastewater-Fluorinated oil, 3000 standard copies |
-| WWM100XDilBC10e4mine | Wastewater-Mineral oil, 30 000 standard copies |
-| WWM100XDilBC10e3mine | Wastewater-Mineral oil, 3000 standard copies |
+|BiolstdM10XDilBC10e416Sfluo|Biol standard	Fluorinated oil, 3e4 to 3e6	16S|
+|BiolstdM100XDilBC10e416Sfluo|Biol standard	Fluorinated oil, 3e3 to 3e5	16S|
+|BiolstdM10XDilBC10e416Smine|Biol standard	Mineral oil, 3e4 to 3e6	16S|
+|BiolstdM100XDilBC10e416Smine|Biol standard	Mineral oil, 3e3 to 3e5	16S	|
+|BiolstdM10XDilBC10e418Sfluo|Biol standard	Fluorinated oil, 3e4 to 3e6	18S|
+|BiolstdM100XDilBC10e418Sfluo|Biol standard	Fluorinated oil, 3e3 to 3e5 18S|
+|BiolstdM10XDilBC10e418Smine|Biol standard	Mineral oil, 3e4 to 3e6	18S|
+|BiolstdM100XDilBC10e418Smine|Biol standard	Mineral oil, 3e3 to 3e5	18S|
+|WWBiolstdM10XDilBC10e416Sfluo|WW + Biol standard	Fluorinated oil, 3e4 to 3e6	16S	|
+|WWBiolstdM100XDilBC10e416Sfluo|WW + Biol standard	Fluorinated oil, 3e3 to 3e5	16S|
+|WWBiolstdM10XDilBC10e416Smine|WW + Biol standard	Mineral oil, 3e4 to 3e6	16S|
+|WWBiolstdM100XDilBC10e416Smine|WW + Biol standard	Mineral oil, 3e3 to 3e5	16S	|
+|WWBiolstdM10XDilBC10e418Sfluo|WW + Biol standard	Fluorinated oil, 3e4 to 3e6	18S|
+|WWBiolstdM100XDilBC10e418Sfluo|WW + Biol standard	Fluorinated oil, 3e3 to 3e5	18S|
+|WWBiolstdM10XDilBC10e418Smine|WW + Biol standard	Mineral oil, 3e4 to 3e6	18S|
+|WWBiolstdM100XDilBC10e418Smine|WW + Biol standard	Mineral oil, 3e3 to 3e5	18S|
+|WWM10XDilBC10e416Sfluo|WW	Fluorinated oil, 3e4 to 3e6	16S|
+|WWM100XDilBC10e416Sfluo|WW	Fluorinated oil, 3e3 to 3e5	16S|
+|WWM10XDilBC10e416Smine|WW	Mineral oil, 3e4 to 3e6	16S	|
+|WWM100XDilBC10e416Smine|WW	Mineral oil, 3e3 to 3e5	16S|
+|WWM10XDilBC10e418Sfluo|WW	Fluorinated oil, 3e4 to 3e6	18S|
+|WWM100XDilBC10e418Sfluo|WW	Fluorinated oil, 3e3 to 3e5	18S|
+|WWM10XDilBC10e418Smine|WW	Mineral oil, 3e4 to 3e6	18S|
+|WWM100XDilBC10e418Smine|WW	Mineral oil, 3e3 to 3e5	18S|
 
 
 Raw data available at https://zenodo.org/record/4877925
